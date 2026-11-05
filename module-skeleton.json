@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-copilot-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-copilot",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-copilot-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-copilot.md",
+  "presentationPlan": "projects/accounting/nextjs/accounting-copilot.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
